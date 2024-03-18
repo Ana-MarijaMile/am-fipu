@@ -156,11 +156,8 @@ export default {
         alert("Molim odaberite budući datum i vrijeme.");
         return;
       }
-      const selectedMinutes = selectedDate.getMinutes();
-      if (selectedMinutes % 30 !== 0) {
-        alert("Molim odaberite vrijeme u intervalima od 30 minuta.");
-        return;
-      }
+      
+
       alert("Termin je dostupan!");
       this.slotFree = true;
       //Budući korak: Provjeriti dostupnost termina na serveru ali pošto je ovo POC, to nije implementirano

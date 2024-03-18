@@ -15,7 +15,7 @@
         </router-link> -->
       </nav>
       <div @click="toggleSideBar" class="top-bar-cart-link">
-        <i class="icofont-cart-alt icofont-1x"></i>
+        <i class="fa-solid fa-user-clock"></i>
         <span>Moja rezervacija ({{ totalQuantity }} usluga)</span>
       </div>
     </header>

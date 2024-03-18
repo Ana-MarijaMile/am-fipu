@@ -20,6 +20,7 @@
   { "id": 19, "name": "Depilacija ruku",        "icon": "fa-solid fa-hand-scissors",     "time": { "min": 30 }, "type": "depilacija" },
   { "id": 20, "name": "Depilacija lica",        "icon": "fa-solid fa-hand-scissors",     "time": { "min": 30 }, "type": "depilacija" },
   { "id": 21, "name": "Depilacija pazuha",      "icon": "fa-solid fa-hand-scissors",     "time": { "min": 30 }, "type": "depilacija" },
-  { "id": 22, "name": "Depilacija bikini zone", "icon": "fa-solid fa-hand-scissors",     "time": { "min": 30 }, "type": "depilacija" }
+  { "id": 22, "name": "Depilacija bikini zone", "icon": "fa-solid fa-hand-scissors",     "time": { "min": 30 }, "type": "depilacija" },
+  { "id": 23, "name": "Depilacija prsa",   "icon": "fa-solid fa-hand-scissors",     "time": { "min": 30 }, "type": "depilacija" }
   
 ]
