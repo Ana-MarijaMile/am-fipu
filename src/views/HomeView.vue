@@ -8,7 +8,7 @@
 
     <main class="wrapper">
 
-      <h2>Popularno</h2>
+      <h2>Vrlo popularno</h2>
       <br/>
 
       <div class="recommended">
