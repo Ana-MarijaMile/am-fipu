@@ -1,6 +1,7 @@
 # Ljepota
+Ana-Marija Miletić
 
-- Fakultet informatike u Puli (https://rezerviraj-21bf1.web.app/)
+- Fakultet informatike u Puli (https://fipu.unipu.hr/)
 - Kolegij: Programsko inženjerstvo (https://ntankovic.unipu.hr/pi)
 
 - Mentor: doc. dr. sc. Nikola Tanković (https://ntankovic.unipu.hr)
