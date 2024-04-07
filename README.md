@@ -1,27 +1,16 @@
-# ljepota
+# Ljepota
 
-## Project setup
-```
-npm install
-```
+- Fakultet informatike u Puli (https://rezerviraj-21bf1.web.app/)
+- Kolegij: Programsko inženjerstvo (https://ntankovic.unipu.hr/pi)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- Mentor: doc. dr. sc. Nikola Tanković (https://ntankovic.unipu.hr)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- U ovom projektnom zadatku razmotrit će se sve tehničke i funkcionalne mogućnosti kozmetičkog salona, od samog dizajna korisničkog sučelja, sigurnosti naručivanja usluga, do marketinških strategija za privlačenje novih klijenta kojima bi se mogao svidjeti ovakav način poslovanja i olakšavanja klijentima samo naručivanje raznih usluga. Ova web aplikacija ima potencijal da itekako unaprijedi dosadašnje poslovanje kozmetičkog salona ali i ostane konkurentna na tržištu naglih promjena gdje je svaka inovativnost prepoznata. 
+- https://rezerviraj-21bf1.web.app/
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/
+
+
 
 
 
